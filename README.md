@@ -78,5 +78,5 @@ sauce-demo-playwright/
 5. Logout
 
 
-Do you want me to do that?
+
 ```
