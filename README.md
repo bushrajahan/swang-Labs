@@ -7,7 +7,7 @@ A user logs in with valid credentials, adds one product to the cart, verifies th
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 ```bash
