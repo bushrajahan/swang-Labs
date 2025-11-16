@@ -26,20 +26,6 @@ npx playwright install
 npx playwright test
 ```
 
-### 4. Run in headed mode (see real browser actions)
-
-```bash
-npx playwright test --headed
-```
-
-### 5. View HTML test report
-
-```bash
-npx playwright show-report
-```
-
----
-
 ##  Project Structure
 
 ```
